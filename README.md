@@ -17,7 +17,7 @@ Docker configuration are done in folder name PAF
 
 ## API's
 
-All the api's mentioned below are shared in the above repo as a Postman collection, In JSON format.
+All the api's mentioned below are shared in the above repo as a Postman collection in a file name **"Auth_Apis.postman_collection"**, In JSON format.
 
 1. SignIn for User
 2. SignIn for Admin
